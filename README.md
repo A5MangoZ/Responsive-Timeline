@@ -1,5 +1,5 @@
-# PBL 0.3: 📱 Responsive-Timeline
-Welcome, Explorer, to my Repository. This repository is part of My Project Based Learning (PBL) initiative, specifically Mission Number 0.3. 
+# PBL 0.2: 📱 Responsive-Timeline
+Welcome, Explorer, to my Repository. This repository is part of My Project Based Learning (PBL) initiative, specifically Mission Number 0.2. 
 
 ## 🚀 Mission Start
 > *The journey began* on ***July 16, 2024, at 00:45 AM.***
